@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriticalArcCodeClean", "CriticalArcCodeCleanup\CriticalArcCodeClean.csproj", "{C74BF7CE-81A2-4C91-B110-B1A4F3A24CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriticalArcCodeTest", "CriticalArcCodeTest\CriticalArcCodeTest.csproj", "{06B0CBF6-D932-422C-8D5B-BF2308879AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74BF7CE-81A2-4C91-B110-B1A4F3A24CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74BF7CE-81A2-4C91-B110-B1A4F3A24CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74BF7CE-81A2-4C91-B110-B1A4F3A24CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74BF7CE-81A2-4C91-B110-B1A4F3A24CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B0CBF6-D932-422C-8D5B-BF2308879AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B0CBF6-D932-422C-8D5B-BF2308879AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B0CBF6-D932-422C-8D5B-BF2308879AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B0CBF6-D932-422C-8D5B-BF2308879AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7957D743-0C36-460E-8741-644170F27199}
+	EndGlobalSection
+EndGlobal
