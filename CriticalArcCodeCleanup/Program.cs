@@ -39,8 +39,4 @@ namespace CriticalArcCodeClean
             Console.ReadKey(true);
         }
     }
-
-    
-
-    
 }
